@@ -1,0 +1,22 @@
+[
+  {
+    "productId": 2,
+    "productName": "Moez",
+    "productCode": "GOn-002",
+    "releaseDate": "april 14 ,2022",
+    "description": "aaaaaaaaaaaaaaaaaaaa",
+    "price": 14.12,
+    "starRating": 2,
+    "imageUrl": "assets/images/moez.png"
+  },
+  {
+    "productId": 3,
+    "productName": "Mohamed",
+    "productCode": "GOn-003",
+    "releaseDate": "april 14 ,2022",
+    "description": "bbbbb",
+    "price": 14.12,
+    "starRating": 2,
+    "imageUrl": "././assets/images/11.png"
+  }
+]
